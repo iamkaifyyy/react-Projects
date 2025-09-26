@@ -1,4 +1,6 @@
 import React from "react";
-import CoinCard from "./CoinCard.jsx"
+import CoinCard from "./Coincard.jsx"
 
-export default function Coinlist
+export default function Coinlist({ coins}){
+    
+}
